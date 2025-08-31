@@ -1,5 +1,5 @@
 {
-  "name": "react-base-table",
+  "name": "@flasham/react-base-table",
   "version": "1.13.5",
   "description": "a react table component to display large data set with high performance and flexibility",
   "main": "lib/index.js",
