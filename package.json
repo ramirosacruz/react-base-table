@@ -52,10 +52,6 @@
     "react-virtualized-auto-sizer": "^1.0.2",
     "react-window": "^1.8.2"
   },
-  "peerDependencies": {
-    "react": "^16.0.0 || ^17.0.0",
-    "react-dom": "^16.0.0 || ^17.0.0"
-  },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
@@ -73,7 +69,6 @@
     "eslint": "^5.6.0",
     "eslint-config-prettier": "^3.0.1",
     "eslint-config-react-app": "^3.0.8",
-    "eslint-plugin-flowtype": "^3.4.2",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-prettier": "^2.6.2",
@@ -82,12 +77,13 @@
     "jest": "^23.5.0",
     "lerna": "^3.2.1",
     "lint-staged": "^7.2.2",
-    "node-sass": "^4.9.3",
+    "node-sass": "^9.0.0",
     "prettier": "^1.14.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-test-renderer": "^17.0.2",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "sass": "^1.91.0"
   },
   "jest": {
     "roots": [
